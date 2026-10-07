@@ -1,10 +1,10 @@
 # Basic Employee Onboarding (AD)(RBAC)
 
 ## Problem Statement
-[Provide 3 to 5 sentences describing what was broken at Northstar Medical Group. Mention the MSP mismanagement, lack of structure, manual processes, and HIPAA risks that existed before your project.]
+So Northstar Medical group had a huge HIPAA violation where they  was no structure. In correspondence with no Active Directory, no Organizational Units or access for the different departments and secuirty groups within the company. Terrible Role base access control, meaning employee's had different roles or access within their departments. The risk for being audited was high, and since their was no centralized system to organize everything and manage the access. Everything was done manually which was the cause of a lot of mistakes and human error.
 
 ## Solution Overview
-[Provide 4 to 6 sentences describing what you built and how it solved the problem. Cover the new domain creation, the structural OU design, the security groups, the flat RBAC model, and how user provisioning was secured.]
+I built a active directory system that created 4 OU's that was able to organize and structure the different departments. Within that the domain NMG.com was created and houses all of the users and their information. Securely splitting them up within access of their respective security groups. The company's Role based access control is now secured and everything is automatic, if a user is transferred to a different department, there will not need to be many manaual changes, once a user is placed in a new OU, and its corresponding security group all of that access will be transferred correctly and smoothly.
 
 ## Video Walkthrough
 [Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
@@ -26,5 +26,5 @@
 
 ## Key Accomplishments
 * Built NMG.com domain from scratch
-* [Add your second key accomplishment here]
-* [Add your third key accomplishment here]
+* Was able to successfully create all the user accounts and OU's and security groups.
+* Being able to fully understand and comprehend the structural need of why North star Medical group needed this upgrade and why fixing the issue was very important to the protection of the company internally and externally. 
