@@ -7,7 +7,7 @@
 * I built a active directory system that created 4 OU's that was able to organize and structure the different departments. Within that the domain NMG.com was created and houses all of the users and their information. Securely splitting them up within access of their respective security groups. The company's Role based access control is now secured and everything is automatic, if a user is transferred to a different department, there will not need to be many manaual changes, once a user is placed in a new OU, and its corresponding security group all of that access will be transferred correctly and smoothly.
 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+https://www.loom.com/share/6677a9c107cf4c4085cc93a516d6c193
 
 ## Tools Used
 * Windows Server
